@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Poppins", sans-serif;
+}
+nav{
+background-color: black;
+color: white;
+padding: 15px;
+}
+
+h1,ul,li{
+display: inline;
+}
+
+ul{
+margin-left: 60%;
+}
+ 
+
+
+li:hover{
+color: white ;
+cursor: pointer ;
+}
+input{
+width: 60%;
+height: 40%;
+padding: 15px;
+
+}
+.search{
+    padding: 25px;
+    text-align: center;
+   }
+   .box{
+    border: 2px solid black;
+    display: inline-block;
+    width: 523px;
+   }
+   .box3{
+    border: 2px solid black;
+    display: inline-block;
+    width: 1000px;
+   }
+   .box1{
+    border: 2px solid black;
+    display: inline-block;
+    width: 507px;
+   }
+
+   .product{
+    margin-top: 20px;
+    text-align: center;
+   }
+   .box:hover{
+    background-color: black;
+    color: aliceblue;
+   }
+   .box3:hover{
+    background-color: black;
+    color: aliceblue;
+   }
+   .box1:hover{
+    background-color: black;
+    color: aliceblue;
+   }
+
+   .about{
+    margin-top: 15px;
+    text-align: center;
+   
+   }
+   .contact{
+    margin-top: 15px;
+    background-color: black;
+    color: aliceblue;
+   }
+   .links a {color:lawngreen;
+    text-decoration: none;
+
+
+   }
+   .links a:hover{
+    color: seashell;
+   }
+  .vj{
+    color: lawngreen;
+    background-color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+  }
+.vj:hover{
+    background-color: chocolate;
+}
+.vk:hover{
+    background-color: coral;
+}
+
+
+
+  .vk{
+    color: lawngreen;
+    background-color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+  }
+  .onlist{
+    display: block;
+  }
